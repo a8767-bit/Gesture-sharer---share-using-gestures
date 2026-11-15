@@ -1,9 +1,3 @@
-
-Descrição
-tags
-gesto-share
-android
-app
 📱 Gesture Sharer
 Share links, photos, and screenshots between nearby Android devices using just hand gestures. No menus to open, no files to choose, and no intrusive notifications.
 
