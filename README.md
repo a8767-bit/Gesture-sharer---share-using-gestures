@@ -52,3 +52,4 @@ Since the app focuses on privacy and is installed via APK, Android requires a qu
 
 ## ⚠️ Notice
 - The app is in beta; therefore, bugs, performance issues, and other problems may occur.
+- ✅ By participating in the beta version, you help the app develop.
