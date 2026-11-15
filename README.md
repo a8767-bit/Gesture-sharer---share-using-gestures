@@ -15,9 +15,8 @@
 
 ## 🛡️ Privacy and Security First
 
-- 🚫 **No internet:** The app explicitly blocks the network permission (`INTERNET`). No data leaves your device.
 - 👀 **Zero recording:** Front camera frames are analyzed instantly in memory by **MediaPipe** and discarded immediately afterwards.
-- 📡 **Direct Local Connection:** Uses **Google Nearby Connections** (Bluetooth/local Wi-Fi) only within a secure **5-second** window activated exclusively by you.
+- 📡 **Direct Local Connection:** Uses **Google Nearby Connections** (Bluetooth/Wi-Fi) only within a secure window activated exclusively by you.
 
 ---
 
@@ -25,7 +24,7 @@
 
 1. **Activate:** Open the app and turn on **Gesture Mode** (or use the quick tile in the notification bar).
 2. **Grab (Sender):** On the sending phone, make a **closed fist** gesture in front of the front camera.
-3. **Drop (Receiver):** On the receiving phone, show an **open palm** to the camera within 5 seconds.
+3. **Drop (Receiver):** On the receiving phone, show an **open palm** to the camera.
 
 Done! The content is received instantly, with a gentle vibration and no visual clutter.
 
