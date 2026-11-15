@@ -49,3 +49,6 @@ Since the app focuses on privacy and is installed via APK, Android requires a qu
 - **Android 14+** (API 34 or higher).
 - Updated **Google Play Services**.
 - **Bluetooth and Wi-Fi** turned on (no need to be connected to an internet-enabled Wi-Fi network).
+
+## ⚠️ Notice
+- The app is in beta; therefore, bugs, performance issues, and other problems may occur.
