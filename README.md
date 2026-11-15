@@ -35,7 +35,7 @@ Done! The content is received instantly, with a gentle vibration and no visual c
 
 Since the app focuses on privacy and is installed via APK, Android requires a quick initial security clearance for the Accessibility Service:
 
-1. Install the APK and open **Gesto Share**.
+1. Install the APK and open **Gesture Sharer**.
 2. Grant the requested permissions (Camera, Nearby Devices, and Battery Optimization).
 3. To enable **Accessibility** (required to capture the current link or screen):
    - If Android shows _"Restricted setting"_, go to **App Info** (_Settings > Apps > Gesto Share_).
